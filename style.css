@@ -39,3 +39,51 @@ body {
     padding-right: 15px;
     border-radius: 3%;
 }
+
+.fifth-section {
+    margin-top: 10%;
+    margin-left: 120px;
+    margin-right: 70px;
+}
+
+.flexible-cointainer {
+    display: flex;
+}
+
+.first-donate {
+    padding-right: 10%;
+}
+
+#image {
+    margin-left: 13%;
+    margin-bottom: 5%;
+}
+
+.donation {
+    display: flex;
+    text-align: left;
+}
+
+button {
+    margin-top: 9%;
+    text-decoration: none;
+    background-color: rgb(255, 77, 77);
+    font-weight: 700;
+    padding: 5% 15%;
+    border-radius: 5px;
+}
+
+.sixth-section {
+    display: flex;
+    margin-top: 3%;
+    margin-left: 120px;
+
+}
+
+.second-donation {
+    text-align: left;
+    margin-top: 5%;
+    margin-right: 80px;
+    margin-left: 120px;
+    margin-bottom: 5%;
+}
