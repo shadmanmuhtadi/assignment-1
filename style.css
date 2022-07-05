@@ -1,0 +1,41 @@
+body {
+    font-family: 'Finlandica', sans-serif;
+    margin: 0%;
+}
+
+.third-section {
+    text-align: center;
+}
+
+.fourth-section {
+    text-align: center;
+    display: flex;
+    padding-top: 50px;
+    margin: 50px;
+
+}
+
+.food {
+    background-color: lightcyan;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-right: 15px;
+    border-radius: 3%;
+
+}
+
+.shelter {
+    background-color: rgb(247, 228, 230);
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-right: 15px;
+    border-radius: 3%;
+}
+
+.education {
+    background-color: rgb(240, 240, 170);
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-right: 15px;
+    border-radius: 3%;
+}
