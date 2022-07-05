@@ -1,5 +1,5 @@
 body {
-    font-family: 'Finlandica', sans-serif;
+    font-family: 'Lobster', cursive;
     margin: 0%;
 }
 
@@ -50,13 +50,14 @@ body {
     display: flex;
 }
 
-.first-donate {
-    padding-right: 10%;
+#donate-down {
+    border-top: 50%;
 }
 
 #image {
     margin-left: 13%;
     margin-bottom: 5%;
+
 }
 
 .donation {
@@ -86,4 +87,23 @@ button {
     margin-right: 80px;
     margin-left: 120px;
     margin-bottom: 5%;
+}
+
+.seventh-section {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+}
+
+#bold-font {
+    font-weight: 900;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: rgb(13, 1, 46);
+    padding: 2%;
+
 }
