@@ -3,6 +3,21 @@ body {
     margin: 0%;
 }
 
+.first-section {
+    text-align: center;
+    background-image: url(images/donation12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+.big-font {
+    color: olive;
+    padding-top: 10%;
+    font-size: 30px;
+}
+
 .third-section {
     text-align: center;
 }
@@ -106,4 +121,15 @@ footer {
     background-color: rgb(13, 1, 46);
     padding: 2%;
 
+}
+
+input {
+    background-color: grey;
+    padding: 5px;
+}
+
+.last-button {
+    color: white;
+    padding: 5px 15px;
+    border-color: rgb(255, 77, 77);
 }
