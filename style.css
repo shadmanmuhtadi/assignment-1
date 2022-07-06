@@ -66,9 +66,25 @@ body {
 }
 
 .other-amount {
-    color: grey;
-    text-decoration: underline;
+    text-decoration-color: black;
+    background-color: white;
+    text-align: center;
+    color: black;
     font-size: 30px;
+    border-bottom: 30%;
+    border-style: dotted;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+    border-bottom-color: black;
+}
+
+.other-amount-button {
+    padding: 20px 30px;
+    margin-bottom: 5%;
+
 }
 
 .third-section {
@@ -172,7 +188,7 @@ button {
 .seventh-section {
     text-align: center;
     margin-top: 5%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 
 }
 
@@ -188,8 +204,16 @@ footer {
 
 }
 
+.eighth-section {
+    background-color: rgb(253, 253, 188);
+    padding-bottom: 5%;
+    margin: 5% 22%;
+}
+
 input {
-    background-color: grey;
+    color: black;
+    background-color: lightgray;
+    border-color: transparent;
     padding: 5px;
 }
 
@@ -197,4 +221,5 @@ input {
     color: white;
     padding: 5px 15px;
     border-color: rgb(255, 77, 77);
+    border-radius: 0%;
 }
