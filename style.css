@@ -1,11 +1,11 @@
 body {
-    font-family: 'Lobster', cursive;
+    font-family: 'Finlandica', sans-serif;
     margin: 0%;
 }
 
 .first-section {
     text-align: center;
-    background-image: url(images/donation12.png);
+    background-image: url(images/sylhet-flood.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -13,9 +13,11 @@ body {
 }
 
 .big-font {
-    color: olive;
+    color: black;
     padding-top: 10%;
     font-size: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .third-section {
@@ -36,23 +38,30 @@ body {
     margin-left: 70px;
     padding-right: 15px;
     border-radius: 3%;
+    width: 33%;
+    padding-bottom: 1%;
+    padding-top: 1%;
 
 }
 
 .shelter {
+    width: 33%;
     background-color: rgb(247, 228, 230);
     margin-right: 70px;
     margin-left: 70px;
     padding-right: 15px;
     border-radius: 3%;
+    padding-top: 1%;
 }
 
 .education {
+    width: 33%;
     background-color: rgb(240, 240, 170);
     margin-right: 70px;
     margin-left: 70px;
     padding-right: 15px;
     border-radius: 3%;
+    padding-top: 1%;
 }
 
 .fifth-section {
@@ -82,11 +91,12 @@ body {
 
 button {
     margin-top: 9%;
-    text-decoration: none;
     background-color: rgb(255, 77, 77);
     font-weight: 700;
     padding: 5% 15%;
     border-radius: 5px;
+    border-color: rgb(255, 77, 77);
+    box-shadow: none;
 }
 
 .sixth-section {
