@@ -20,6 +20,12 @@ body {
     margin-right: 5%;
 }
 
+#section-button {
+    padding: 20px 30px;
+
+}
+
+
 .third-section {
     text-align: center;
 }
@@ -65,27 +71,29 @@ body {
 }
 
 .fifth-section {
+    display: flex;
     margin-top: 10%;
     margin-left: 120px;
     margin-right: 70px;
 }
 
-.flexible-cointainer {
+/* .flexible-cointainer {
     display: flex;
-}
+} */
 
-#donate-down {
+/* #donate-down {
     border-top: 50%;
-}
+} */
 
 #image {
     margin-left: 13%;
     margin-bottom: 5%;
+    margin-right: 3%;
 
 }
 
 .donation {
-    display: flex;
+    /* display: flex; */
     text-align: left;
 }
 
@@ -97,6 +105,7 @@ button {
     border-radius: 5px;
     border-color: rgb(255, 77, 77);
     box-shadow: none;
+    color: white;
 }
 
 .sixth-section {
@@ -110,7 +119,7 @@ button {
     text-align: left;
     margin-top: 5%;
     margin-right: 80px;
-    margin-left: 120px;
+    margin-left: 10%;
     margin-bottom: 5%;
 }
 
